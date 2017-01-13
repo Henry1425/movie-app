@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+
+}
+/*.App-background {
+  background-image: url(./HomeViewImage.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+#header{
+  max-width: inherit;
+  z-index: inherit;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-image:url("../public/images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 400px 0;
+  margin-top: -2e/m;
+  margin-bottom: 2em;
+}
+
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
